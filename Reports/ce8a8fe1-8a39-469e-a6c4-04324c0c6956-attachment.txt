@@ -1,0 +1,8 @@
+Page loaded
+Name to match:Andy Ricchini
+[<selenium.webdriver.remote.webelement.WebElement (session="2743b26258d02547c5135d2b09f344d8", element="b8f68822-c79f-43e1-ace2-9b816e6f59ec")>, <selenium.webdriver.remote.webelement.WebElement (session="2743b26258d02547c5135d2b09f344d8", element="1537c904-c2c7-4682-9107-d35c72282f0f")>, <selenium.webdriver.remote.webelement.WebElement (session="2743b26258d02547c5135d2b09f344d8", element="1d9a5fce-cee7-4fb7-b9cc-601561b10389")>, <selenium.webdriver.remote.webelement.WebElement (session="2743b26258d02547c5135d2b09f344d8", element="a8c0e2de-49c3-47dd-a0ef-138fc14b94d1")>, <selenium.webdriver.remote.webelement.WebElement (session="2743b26258d02547c5135d2b09f344d8", element="95cf0f8b-70ca-45ac-9ed9-344a6d90e95f")>]
+['Larry Banner', 'Ameir Al-Zoubi', 'Andy Ricchini', 'Delaney Rundell', 'Kevin Conner']
+Larry Banner
+Ameir Al-Zoubi
+Andy Ricchini
+<selenium.webdriver.remote.webelement.WebElement (session="2743b26258d02547c5135d2b09f344d8", element="1d9a5fce-cee7-4fb7-b9cc-601561b10389")>

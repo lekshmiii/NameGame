@@ -1,0 +1,19 @@
+Page loaded
+0
+0
+Name to match:Alicia Midland
+[<selenium.webdriver.remote.webelement.WebElement (session="e37e4b3f1e4d07ebae1361f578c06b75", element="46611c7e-7f08-4031-bd2c-f108eb96495f")>, <selenium.webdriver.remote.webelement.WebElement (session="e37e4b3f1e4d07ebae1361f578c06b75", element="8124f32c-9d03-4c3f-9459-1c7e9feb3313")>, <selenium.webdriver.remote.webelement.WebElement (session="e37e4b3f1e4d07ebae1361f578c06b75", element="a44684d4-c8a1-4fc0-a2a6-f22aae1c1dca")>, <selenium.webdriver.remote.webelement.WebElement (session="e37e4b3f1e4d07ebae1361f578c06b75", element="c1f85458-6a26-411f-a9b6-067fabf1b315")>, <selenium.webdriver.remote.webelement.WebElement (session="e37e4b3f1e4d07ebae1361f578c06b75", element="aa50b4ad-f4ea-4108-bd19-e70484b41094")>]
+['Halen Wooten', 'Osama Rao', 'Alicia Midland', 'Claire Maiers, PhD', 'Thomas DiMauro']
+Halen Wooten
+<selenium.webdriver.remote.webelement.WebElement (session="e37e4b3f1e4d07ebae1361f578c06b75", element="46611c7e-7f08-4031-bd2c-f108eb96495f")>
+1
+0
+Name to match:Alicia Midland
+[<selenium.webdriver.remote.webelement.WebElement (session="e37e4b3f1e4d07ebae1361f578c06b75", element="46611c7e-7f08-4031-bd2c-f108eb96495f")>, <selenium.webdriver.remote.webelement.WebElement (session="e37e4b3f1e4d07ebae1361f578c06b75", element="8124f32c-9d03-4c3f-9459-1c7e9feb3313")>, <selenium.webdriver.remote.webelement.WebElement (session="e37e4b3f1e4d07ebae1361f578c06b75", element="a44684d4-c8a1-4fc0-a2a6-f22aae1c1dca")>, <selenium.webdriver.remote.webelement.WebElement (session="e37e4b3f1e4d07ebae1361f578c06b75", element="c1f85458-6a26-411f-a9b6-067fabf1b315")>, <selenium.webdriver.remote.webelement.WebElement (session="e37e4b3f1e4d07ebae1361f578c06b75", element="aa50b4ad-f4ea-4108-bd19-e70484b41094")>]
+['Halen Wooten', 'Osama Rao', 'Alicia Midland', 'Claire Maiers, PhD', 'Thomas DiMauro']
+Halen Wooten
+Osama Rao
+Alicia Midland
+<selenium.webdriver.remote.webelement.WebElement (session="e37e4b3f1e4d07ebae1361f578c06b75", element="a44684d4-c8a1-4fc0-a2a6-f22aae1c1dca")>
+2
+1

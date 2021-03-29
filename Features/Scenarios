@@ -1,0 +1,65 @@
+TITLE : Name Game Test Automation Suite
+FEATURE : To win, user select a photo to match the name in the question
+
+Story1: Name Game page is displayed and ready to play
+
+1) Verifies name game title is shown
+2) Verify name and displayed photos change after selecting the correct answer
+
+Story2: Attempts , Correct and streak Counters are updated based on the correct or incorrect photo selection"
+
+3) Verifies “attempts”counter is incremented
+4) Verify that the correct counters are being incremented for tries and correct counters
+
+Question 1
+Attempt1:incorrect
+Tries:1
+Correct:0
+Attempt2:correct
+Tries :2
+Correct:1
+
+5) Verify the "streak" counter is incrementing on correct selections
+The test is skipped from the automation suite because of an existing defect with streak counter
+
+Question 1
+Attempt1:correct
+streak:0
+
+Question 2
+Attempt1:correct
+streak:1
+
+6) Verify the multiple “streak” counter resets after getting an incorrect answer
+The test is skipped from the automation suite because of an existing defect with streak counter
+
+
+Question 1
+Attempt1:correct
+streak:0
+
+Question 2
+Attempt1:correct
+streak:1
+
+Question 3
+Attempt1:incorrect
+streak:0
+
+Story3: probability of repeating of photos for correct and incorrect selections
+Story4: Adding and removing ​colleagues​ with matching pictures to the pool of ​colleagues
+
+
+
+
+Run the test cases using below command and it generates reports in Reports directory
+pytest <absolute path of the test file> --alluredir ./Reports
+#pytest /Users/arunnair/PycharmProjects/NameGame/tests/test_NameGame.py --alluredir ./Reports
+
+To see the results in a browser use command
+"allure serve <absolute path of the "Reports" directory>"
+allure serve /Users/arunnair/PycharmProjects/NameGame/Reports
+"control + C" to exit
+
+below command generates the requirements.text file
+pip freeze > requirements.text
